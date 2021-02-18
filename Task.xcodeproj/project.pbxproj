@@ -43,7 +43,6 @@
 		0AC64D860DE5F142AA2EEC44 /* Pods_Task.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Task.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AFDE98E00DC3218D56C2863 /* Pods-Task-TaskUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Task-TaskUITests.release.xcconfig"; path = "Target Support Files/Pods-Task-TaskUITests/Pods-Task-TaskUITests.release.xcconfig"; sourceTree = "<group>"; };
 		32A3B72A6B39DC22A55C1934 /* Pods-Task.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Task.debug.xcconfig"; path = "Target Support Files/Pods-Task/Pods-Task.debug.xcconfig"; sourceTree = "<group>"; };
-		38CF39CCAC10A9E54CDAB932 /* Pods-TaskTestsOwn.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTestsOwn.debug.xcconfig"; path = "Target Support Files/Pods-TaskTestsOwn/Pods-TaskTestsOwn.debug.xcconfig"; sourceTree = "<group>"; };
 		4ED17C243A58A9563CC62F36 /* Pods_Task_TaskUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Task_TaskUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A37123D425DAED2A00294867 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		A3CFDF7025D3005E00D57E47 /* Task.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Task.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -62,10 +61,8 @@
 		A3CFDF9725D3006200D57E47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C71B4769D7482F8F154116BA /* Pods-TaskTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTests.release.xcconfig"; path = "Target Support Files/Pods-TaskTests/Pods-TaskTests.release.xcconfig"; sourceTree = "<group>"; };
 		CA886D7B230143DF36D4279C /* Pods-TaskTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTests.debug.xcconfig"; path = "Target Support Files/Pods-TaskTests/Pods-TaskTests.debug.xcconfig"; sourceTree = "<group>"; };
-		CB58B364E50F20179ABFE0E5 /* Pods_TaskTestsOwn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaskTestsOwn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEF2631A61E4F1C017DEBA8A /* Pods-Task-TaskUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Task-TaskUITests.debug.xcconfig"; path = "Target Support Files/Pods-Task-TaskUITests/Pods-Task-TaskUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		D601A8EA22ED8B1FABDDFC7F /* Pods-Task.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Task.release.xcconfig"; path = "Target Support Files/Pods-Task/Pods-Task.release.xcconfig"; sourceTree = "<group>"; };
-		D95D37689B0F6A0D5E16EE71 /* Pods-TaskTestsOwn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TaskTestsOwn.release.xcconfig"; path = "Target Support Files/Pods-TaskTestsOwn/Pods-TaskTestsOwn.release.xcconfig"; sourceTree = "<group>"; };
 		EB5657592A91BCDC1B56B9FC /* Pods_TaskTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TaskTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -106,8 +103,6 @@
 				0AFDE98E00DC3218D56C2863 /* Pods-Task-TaskUITests.release.xcconfig */,
 				CA886D7B230143DF36D4279C /* Pods-TaskTests.debug.xcconfig */,
 				C71B4769D7482F8F154116BA /* Pods-TaskTests.release.xcconfig */,
-				38CF39CCAC10A9E54CDAB932 /* Pods-TaskTestsOwn.debug.xcconfig */,
-				D95D37689B0F6A0D5E16EE71 /* Pods-TaskTestsOwn.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -118,7 +113,6 @@
 				0AC64D860DE5F142AA2EEC44 /* Pods_Task.framework */,
 				4ED17C243A58A9563CC62F36 /* Pods_Task_TaskUITests.framework */,
 				EB5657592A91BCDC1B56B9FC /* Pods_TaskTests.framework */,
-				CB58B364E50F20179ABFE0E5 /* Pods_TaskTestsOwn.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";

@@ -16,11 +16,6 @@ target 'Task' do
     # Pods for testing
   end
 
-  target 'TaskTestsOwn' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
   target 'TaskUITests' do
     # Pods for testing
   end

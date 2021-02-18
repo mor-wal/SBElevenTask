@@ -1,10 +1,3 @@
-//
-//  TaskUITests.swift
-//  TaskUITests
-//
-//  Created by Валентин Ломов on 09.02.2021.
-//
-
 import XCTest
 
 class TaskUITests: XCTestCase {
